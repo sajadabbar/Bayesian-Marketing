@@ -1,2 +1,6 @@
 # Bayesian-Marketing
 Using PyMC, I perform a case study of media mix models, which are used by the companies to estimate the effectiveness of each advertising channel.
+
+Disclaimer: I have created this notebook solely for my personal record keeping. However, it may also be helpful for readers interested in performing Bayesian time series analysis using PyMC in the field of marketing, specifically for media mix models (MMM).
+
+When a company invests in advertising across multiple channels, it's common to see a lag in results and diminishing returns over time. To address this, media mix models are used to estimate the effectiveness of each advertising channel. The basic idea is that the company invests in various paid channels and pays them on a weekly basis, which leads to increased revenue. However, the challenge is to determine the profitability of each channel, as marketing actions typically don't produce immediate effects. Instead, there's a carryover effect where a dollar spent today will enhance revenue in the coming weeks. By using media mix models, companies can better understand which channels provide the highest return on investment and optimize their advertising strategy accordingly. 
