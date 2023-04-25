@@ -1,5 +1,4 @@
 # Bayesian-Marketing
-Using PyMC, I perform a case study of media mix models, which are used by the companies to estimate the effectiveness of each advertising channel.
 
 Disclaimer: I have created this notebook solely for my personal record keeping. However, it may also be helpful for readers interested in performing Bayesian time series analysis using PyMC in the field of marketing, specifically for media mix models (MMM).
 
